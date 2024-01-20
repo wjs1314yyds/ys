@@ -6,11 +6,11 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣┃榜单",
       "type": 3,
-      "api": "https://gitee.com/tx8/4k/raw/master/libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/tx8/4k/raw/master/js/豆瓣.js"
+      "ext": "./js/豆瓣.js"
     },
    
     {
@@ -67,8 +67,8 @@
       "key": "js_荐片",
       "name": "荐片┃超清",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/js/荐片.js",
+      "api": "./lab/drpy2.min.js",
+      "ext": "./js/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
