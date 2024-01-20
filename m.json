@@ -20,26 +20,26 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/market.json",
-      "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/fm商店.jar"
+      "ext": "./json/market.json",
+      "jar": "./jar/fm商店.jar"
     },
    
     {
       "key": "直播转点播",
       "name": "电视┃直播",
       "type": 3,
-      "api": "https://jihulab.com/wanda/4k/-/raw/main/js/zbzdb.js",
+      "api": "./js/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
+      "ext": "./json/zb.json"
     },
      {
       "key": "csp_KungFu404",
       "name": "云盘┃设置",
       "type": 3,
       "api": "csp_KungFu404",
-      "jar": "https://raw.gitcode.com/tvbox/4k/raw/main/jar/alibaba.jar"
+      "jar": "./jar/alibaba.jar"
     },
     
       {
@@ -94,13 +94,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/json/孜然影视.json"
+      "ext": "./json/孜然影视.json"
     },
      {
       "key": "ggys_open",
       "name": "高光┃影视",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/js/ggys_open.js"
+      "api": "./js/ggys_open.js"
     },
       {
       "key": "哔嘀",
@@ -195,7 +195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json"
+      "ext": "./json/348影视.json"
     },
     {
       "key": "csp_圣城",
@@ -205,7 +205,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/圣城影视.json"
+      "ext": "./json/圣城影视.json"
     },
     {
       "key": "csp_威士",
@@ -215,7 +215,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/vs影视.json"
+      "ext": "./json/vs影视.json"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -225,7 +225,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/奇优影视.json"
+      "ext": "./json/奇优影视.json"
     },
      
       {
@@ -236,7 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/json/万达影视.json"
+      "ext": "./json/万达影视.json"
     },
     {
             "key": "csp_XBPQ_lz",
@@ -262,11 +262,11 @@
       "key": "js_zyys",
       "name": "追忆┃影视",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+      "api": "./lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/js/zyys.js"
+      "ext": "./js/zyys.js"
     },
      {
       "key": "Kuaikan",
@@ -480,8 +480,8 @@
       "key": "Libo",
       "name": "Libo┃影视",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/libvio.js"
+      "api": "./lab/drpy2.min.js",
+      "ext": "./js/libvio.js"
     },
     {
       "key": "csp_Fr1ee",
@@ -491,7 +491,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
+      "ext": "./json/Free影视.json"
     },
       {
       "key": "忍者",
@@ -533,17 +533,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/json/新6v.json"
+      "ext": "./json/新6v.json"
     },
      {
       "key": "js_6V",
       "name": "六维┃磁力",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+      "api": "./lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/js/6V.js"
+      "ext": "./js/6V.js"
     },
      {
       "key": "csp_XYQHiker_dyx",
@@ -553,37 +553,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/json/港口.json",
+      "ext": "./json/港口.json",
       "jar": "https://raw.gitcode.com/tvbox/4k/jar/spider.txt"
     },
     {"key":"草莓熊",
     "name":"草莓┃磁力",
     "type":3,
-    "api":"https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+    "api":"./lab/drpy2.min.js",
     "searchable":1,
     "filterable":1,
     "changeable":1,
     "timeout":25,
-    "ext":"https://raw.gitcode.com/tvbox/4k/raw/main/js/草莓熊.js"},
+    "ext":"./js/草莓熊.js"},
      {
       "key": "js_磁力熊",
       "name": "贝尔┃磁力",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+      "api": "./lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/js/bear.js"
+      "ext": "./js/bear.js"
     },
     {
       "key": "js_酷吧",
       "name": "酷吧┃磁力",
       "type": 3,
-      "api": "https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+      "api": "./lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/js/kuba.js"
+      "ext": "./js/kuba.js"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -604,7 +604,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/子子影视.json"
+      "ext": "./json/子子影视.json"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -614,7 +614,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/好戏.json"
+      "ext": "./json/好戏.json"
     },
      {
       "key": "cjzy_暴风资源",
@@ -650,7 +650,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/json/星辰影视.json"
+      "ext": "./json/星辰影视.json"
     },
     {
       "key": "49zy",
@@ -706,7 +706,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/疯狗影视.json"
+      "ext": "./json/疯狗影视.json"
     },
     {
       "key": "csp_盒子",
@@ -716,7 +716,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/电影盒子.json"
+      "ext": "./json/电影盒子.json"
     },
    
     {
@@ -741,7 +741,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/往往影视.json"
+      "ext": "./json/往往影视.json"
     },
    
     {
@@ -784,7 +784,7 @@
       "name": "蜗牛┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/蜗牛.json"
+      "ext": "./json/蜗牛.json"
     },
    
     {
@@ -805,7 +805,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/LOL.json"
+      "ext": "./json/LOL.json"
     },
     
       {
@@ -835,7 +835,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.gitcode.com/tvbox/4k/raw/main/json/喝茶影视.json"
+      "ext": "./json/喝茶影视.json"
     },
      {
 		    "key": "综合资源",
@@ -854,7 +854,7 @@
       "name": "小白┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/素白白.json"
+      "ext": "./json/素白白.json"
     },
    
     {
@@ -865,7 +865,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/米爱.json"
+      "ext": "./json/米爱.json"
     },
      
     {
@@ -1176,7 +1176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/柒月.json"
+      "ext": "./json/柒月.json"
     },
     {
       "key": "DiDuan",
@@ -1195,7 +1195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/达达龟.json"
+      "ext": "./json/达达龟.json"
     },
    
     {
@@ -1218,7 +1218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/歪片星球.json"
+      "ext": "./json/歪片星球.json"
     },
    
    
@@ -1559,7 +1559,7 @@
   ],
   
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
+  "spider": "./jar/yytt.jar",
   "lives": [
     {
       "name": "live",
