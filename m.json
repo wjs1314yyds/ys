@@ -1559,7 +1559,7 @@
   ],
   
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "./jar/yytt.jar",
+  "spider": "./jar/keletv.jar",
   "lives": [
     {
       "name": "live",
