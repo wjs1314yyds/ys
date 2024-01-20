@@ -1381,7 +1381,7 @@
 
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "./lib/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "https://atomgit.com/tvbox/4k/raw/master/keletv.jar",
   "lives": [
     {
       "name": "live",
