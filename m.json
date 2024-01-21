@@ -158,6 +158,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
      {
       "key": "低端",
       "name": "低端┃影视",
@@ -165,6 +166,25 @@
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/ddys.js"
+    },
+     {
+      "key": "js_ddys",
+      "name": "低端┃影视",
+      "type": 3,
+      "api": "./lib/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/ddys.js"
+    },
+     {
+      "key": "DiDuan",
+      "name": "高端┃影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
       {
       "key": "南坊",
@@ -1178,14 +1198,17 @@
       "filterable": 1,
       "ext": "./json/柒月.json"
     },
-    {
-      "key": "DiDuan",
-      "name": "高端┃影视",
+   
+     {
+      "key": "腐宅",
+      "name": "腐宅┃同性",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
     },
     {
       "key": "csp_dadagui",
