@@ -162,11 +162,11 @@
       "key": "js_ddys",
       "name": "低端┃影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/ddys.js"
+      "ext": "./js/低端影视.js"
     },
      {
       "key": "DiDuan",
