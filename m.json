@@ -1355,15 +1355,15 @@
       "filterable": 1,
       "ext": "./json/geshou.json"
     },
-    {
+     {
       "key": "csp_Bili_Nvtuan",
-      "name": "女团┃热舞",
+      "name": "🅱️┃女团┃热舞",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/nvtuan.json"
+      "ext": "https://raw.gitcode.com/xduo/box/raw/main/json/nvtuan.json"
     },
     {
       "key": "MV_vod",
