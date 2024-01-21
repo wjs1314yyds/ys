@@ -1293,7 +1293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/酷狗MV.js"
+      "ext": "./js/酷狗MV.js"
     },
     {
       "key": "js_a8音乐",
@@ -1303,7 +1303,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/a8音乐.js"
+      "ext": "./js/a8音乐.js"
     },
     {
       "key": "csp_酷奇",
