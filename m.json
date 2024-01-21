@@ -1271,9 +1271,115 @@
         "欧美综艺"
       ]
     },
-   
-   
-   
+     {
+      "key": "csp_Bili_zyy",
+      "name": "中医┃药区",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/zyy.json"
+    },
+      {
+      "key": "csp_Bili_xuqu1",
+      "name": "戏曲┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/xiqu.json"
+    },
+      {
+      "key": "csp_Bili_TYjs",
+      "name": "体育┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/tiyu.json"
+    },
+    {
+      "key": "csp_Bili_xiangsh",
+      "name": "相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/xiaopin.json"
+    },
+    {
+      "key": "csp_Bili_FBqx",
+      "name": "球队┃球星",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/qiudui.json"
+    },
+    {
+      "key": "csp_Bili_Meinvw",
+      "name": "美女┃舞蹈",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/meinv.json"
+    },
+    {
+      "key": "csp_Bili_yanchh",
+      "name": "歌手┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/geshou.json"
+    },
+    {
+      "key": "csp_Bili_Nvtuan",
+      "name": "女团┃热舞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/nvtuan.json"
+    },
+    {
+      "key": "MV_vod",
+      "name": "MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bili_MTV",
+      "name": "歌曲┃演唱",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/mtv.json"
+    },
+    {
+      "key": "csp_Bili_Yinl2",
+      "name": "音乐┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/yinyue.json"
+    },
     {
       "key": "XBPQ_葡萄",
       "name": "葡萄┃短剧",
