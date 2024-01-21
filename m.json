@@ -158,20 +158,11 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-     {
-      "key": "低端",
-      "name": "低端┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/ddys.js"
-    },
      {
       "key": "js_ddys",
       "name": "低端┃影视",
       "type": 3,
-      "api": "./lib/drpy2.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
