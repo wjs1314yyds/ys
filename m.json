@@ -1394,6 +1394,46 @@
       "filterable": 1,
       "ext": "./json/yinyue.json"
     },
+      {
+      "key": "csp_Bili_dashan",
+      "name": "搭讪┃教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/搭讪.json"
+    },
+    {
+      "key": "csp_Bili__dapei",
+      "name": "搭配┃教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/搭配.json"
+    },
+    {
+      "key": "js_B站精简",
+      "name": "哔哩┃精简",
+      "type": 3,
+      "api": "./lab/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/B站精简.js"
+    },
+    {
+      "key": "csp_Bili_meishi",
+      "name": "美食┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/美食合集.json"
+    },
     {
       "key": "XBPQ_葡萄",
       "name": "葡萄┃短剧",
