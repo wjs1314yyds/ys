@@ -44,13 +44,7 @@
       "filterable": 1,
       "ext": "./js/酷狗MV.js"
     },
-     {
-      "key": "csp_KungFu404",
-      "name": "云盘┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar"
-    },
+    
     
       {
 			"key": "XAL蓝光",
@@ -1567,6 +1561,13 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
+    },
+     {
+      "key": "csp_KungFu404",
+      "name": "云盘┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "jar": "./jar/alibaba.jar"
     },
     {
       "key": "dr_兔小贝",
