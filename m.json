@@ -89,6 +89,15 @@
       "changeable": 1,
       "ext": "https://www.czzy66.com/"
     },
+    {
+			"key": "csp_Czzy",
+			"name": "厂长┃影视",
+			"type": 3,
+			"api": "csp_Czzy",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./jar/厂长.jar"
+		},
       {
       "key": "孜然",
       "name": "孜然┃影视",
