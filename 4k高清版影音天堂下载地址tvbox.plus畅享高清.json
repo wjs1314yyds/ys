@@ -1759,7 +1759,7 @@
   ],
   
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "./jar/keletv.jar;md5;948098B2A3D81773E059F00A1D97224",
+  "spider": "https://atomgit.com/tvbox/4k/raw/master/jar/keletv.jar",
   "lives": [
     {
       "name": "live",
