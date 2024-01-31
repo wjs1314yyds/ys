@@ -46,7 +46,7 @@
     },
      {
       "key": "小胡",
-      "name": "自营┃影视",
+      "name": "自营┃超清",
       "type": 1,
       "playerType": 1,
       "api": "http://xh.xn--yetu07f.icu/api.php/provide/vod/"
@@ -60,7 +60,13 @@
 			"changeable": 0,
 			"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/厂长.jar"
 		},
-     
+      {
+      "key": "赛文",
+      "name": "赛文┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
+    },
        {
             "key": "1996",
             "name": "九六┃影视",
