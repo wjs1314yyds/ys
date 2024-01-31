@@ -91,13 +91,27 @@
       "filterable": 1
     },
      {
-      "key": "77",
-      "name": "七七┃影视",
+      "key": "亮亮",
+      "name": "亮亮┃影视",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 0
+    },
+    
+     {
+      "key": "南坊",
+      "name": "南坊┃影视",
+      "type": 3,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
      {
       "key": "耐看",
@@ -191,16 +205,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     
       {
-      "key": "南坊",
-      "name": "南坊┃影视",
+      "key": "77",
+      "name": "七七┃影视",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-      "api": "csp_AppMao",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+      "filterable": 1
     },
     {"key":"蚂蚁",
     "name":"蚂蚁┃影视",
@@ -332,17 +345,7 @@
       "filterable": 1,
       "ext": "https://atomgit.com/tvbox/4k/raw/master/json/可可影视.json"
     }, 
-    {
-      "key": "亮亮",
-      "name": "亮亮┃影视",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+   
     {
             "key": "alist",
             "name": "小雅┃网盘",
