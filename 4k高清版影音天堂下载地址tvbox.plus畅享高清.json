@@ -91,7 +91,13 @@
       "filterable": 1
     },
    
-    
+     {
+      "key": "耐看",
+      "name": "耐看┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/nk.json"
+    },
       {
       "key": "孜然",
       "name": "孜然┃影视",
