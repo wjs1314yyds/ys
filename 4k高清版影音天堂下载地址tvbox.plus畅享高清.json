@@ -60,13 +60,7 @@
 			"changeable": 0,
 			"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/厂长.jar"
 		},
-      {
-      "key": "赛文",
-      "name": "赛文┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
-    },
+      
        {
             "key": "1996",
             "name": "九六┃影视",
@@ -147,7 +141,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"超神","name":"超神┃影视","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
+  
      {"key": "奈飞影视","name":"鸭奈┃影视","type":3,"jar": "./jar/ttkx.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ynfys.json"},
       
       {
