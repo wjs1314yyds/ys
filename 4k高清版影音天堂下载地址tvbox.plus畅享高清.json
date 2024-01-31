@@ -44,7 +44,13 @@
       "filterable": 1,
       "ext": "https://atomgit.com/tvbox/4k/raw/master/js/酷狗MV.js"
     },
-    
+     {
+      "key": "小胡",
+      "name": "自营┃影视",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xh.xn--yetu07f.icu/api.php/provide/vod/"
+    },
     {
 			"key": "csp_Czzy",
 			"name": "厂长┃高清",
