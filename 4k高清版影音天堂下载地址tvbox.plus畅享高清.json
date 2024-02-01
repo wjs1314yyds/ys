@@ -181,6 +181,15 @@
       "filterable": 1
     },
      {
+      "key": "皮皮虾",
+      "name": "┃皮皮┃影视",
+      "type": 3,
+      "api": "csp_PipiXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
       "key": "js_ddys",
       "name": "低端┃影视",
       "type": 3,
